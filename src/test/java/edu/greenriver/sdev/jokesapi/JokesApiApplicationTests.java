@@ -56,4 +56,9 @@ class JokesApiApplicationTests {
         assertTrue(response.getBody().getId() > 0);
     }
 
+    @Test
+    public void updateTest(){
+
+    }
+
 }
